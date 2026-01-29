@@ -1,4 +1,4 @@
-# 2y neurodevelopment 
+# PROPEL - 2y neurodevelopment 
 
 Scripts to produce the analysis and figures for the PROPEL 2y neurodevelopment paper: <br>
 Dynamics of early gut microbiota maturation in extremely preterm infants are associated with neurodevelopment at 2 years <br>
