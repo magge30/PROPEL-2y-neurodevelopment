@@ -15,8 +15,10 @@ Scripts: https://github.com/magge30/PROPEL-ELBW-16S <br>
 
 ## Biostatistics: <br>
 Generalised R scripts for the statisical anlysis:
+- Functions used to re-arragne data <br>
 - SparseMCMM <br>
 - Alpha-diversity <br>
 - Beta-diversity <br>
+- ANOCM-BC <br>
 - PLS-DA <br>
 - Longitudinal analys <br>
