@@ -7,7 +7,7 @@ preprint: ttps://doi.org/10.1101/2025.03.17.25324095
 ## Data
 - Sequences available at European Nucleotide Archive : PRJEB36531. <br>
 - metadata, OTU tabel and ASV table in .csv format <br>
-- phyloseq obejct (data.rds) integrating the .cvs data ready to run with the Rscirpts  <br>
+- phyloseq obejct (data_phyloseq_object.rds) integrating the .cvs data ready to run with the Rscirpts  <br>
 
 ## Bioinformatics <br>
 From Raw sequence data to ASV table (bbduk, dada2 and ASV table preprocessin) <br>
